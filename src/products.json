@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1635870723802-e88d76ae324e"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 9",
+    "price": 729,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM4",
+    "price": 349,
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb"
+  },
+  {
+    "id": 6,
+    "name": "Bose QuietComfort 35 II",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90"
+  },
+  {
+    "id": 7,
+    "name": "Apple MacBook Pro",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 8,
+    "name": "Dell XPS 13",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45"
+  },
+  {
+    "id": 9,
+    "name": "HP Spectre x360",
+    "price": 1099,
+    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f"
+  },
+  {
+    "id": 10,
+    "name": "Microsoft Surface Laptop 4",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1616400619175-5beda3a17896"
+  }
+]
